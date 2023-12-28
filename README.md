@@ -837,5 +837,5 @@ Close the HTML and Java Script Program.
 ## REUSLT:
 Succesfully Executed all the Given JAVA SCRIPT Programs.
 
-## DEVELOPED BY: D.B.V.SAI GANESH
+## DEVELOPED BY: Goutham.K
 ## REGISTER NO: 212223110019
