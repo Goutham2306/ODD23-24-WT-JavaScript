@@ -102,7 +102,7 @@ Close The HTML And Java Script Program.
 
 ```
 ## OUTPUT:
-![Screenshot 2023-12-21 083910](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/83e1d6d1-f7f2-4e70-99ff-29ee2f150db3)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/fa67fd72-e0dd-4801-ae67-dbf826d1a8c2)
 
 ## OBJECTIVE 2:
 ## AIM:
@@ -126,7 +126,7 @@ Retrieve the input value and convert it to an integer.Check if the input is a no
 ## Step-5:
 Close The HTML And Java Script Program.
 ## CODE:
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,34 +135,35 @@ Close The HTML And Java Script Program.
     <title>Factorial Calculator</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color:linear-gradient(135deg, #3498db, #2ecc71);
-            color: #333;
+            font-family: 'Arial', sans-serif; /* Change the font-family */
+            background-color: linear-gradient(135deg, #5e5e5e, #333333); /* Change the background gradient */
+            color: #fff; /* Change the text color to white */
             margin: 20px;
             text-align: center;
         }
 
         h2 {
-            color: #4c54af;
+            color: #b3b3b3; /* Change the heading color */
         }
 
         label {
             display: block;
             margin-bottom: 8px;
-            color: #333;
+            color: #ccc; /* Change the label color */
         }
 
         input {
             width: calc(100% - 16px);
             padding: 8px;
             margin-bottom: 16px;
-            border: 1px solid #ccc;
+            border: 1px solid #666; /* Change the border color */
             border-radius: 4px;
+            color: #333; /* Change the input text color */
         }
 
         button {
-            background-color: blue;
-            color: white;
+            background-color: #3498db; /* Change the button background color */
+            color: #fff;
             padding: 10px;
             border: none;
             border-radius: 4px;
@@ -170,13 +171,14 @@ Close The HTML And Java Script Program.
         }
 
         button:hover {
-            background-color:red;
+            background-color: #2ecc71; /* Change the button hover color */
         }
 
         #result {
-            background-color: #f0f0f0;
-            border: 1px solid #ccc;
+            background-color: #444; /* Change the result background color */
+            border: 1px solid #666;
             padding: 8px;
+            color: #fff; /* Change the result text color */
         }
     </style>
 </head>
@@ -217,9 +219,11 @@ Close The HTML And Java Script Program.
 
 </body>
 </html>
+
+</html>
 ```
 ## OUTPUT:
-![Screenshot 2023-12-21 092732](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/cec19978-906c-40b8-8804-4506ab5dd60f)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/991c7475-f2d7-426f-bda4-f76f1adab426)
 
 ## OBJECTIVE 3:
 ## AIM:
@@ -243,7 +247,7 @@ The generated prime numbers are displayed in the "result" div, providing a visua
 ## Step-5:
 Close the HTML and Java Script Program.
 ## CODE:
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -252,22 +256,22 @@ Close the HTML and Java Script Program.
     <title>Prime Number Generator</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
+            font-family: 'Roboto', Arial, sans-serif; /* Change the font-family */
+            background-color: #2c3e50; /* Change the background color */
+            color: #ecf0f1; /* Change the text color */
             margin: 20px;
             text-align: center;
         }
 
         h2 {
-            color: red;
+            color: #e74c3c; /* Change the heading color */
         }
 
         form {
-            background-color: #fff;
+            background-color: #34495e; /* Change the form background color */
             border: 2px solid #3498db; /* Blue border */
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
             padding: 20px;
             max-width: 400px;
             margin: auto;
@@ -276,20 +280,21 @@ Close the HTML and Java Script Program.
         label {
             display: block;
             margin-bottom: 8px;
-            color: #333;
+            color: #bdc3c7; /* Change the label color */
         }
 
         input {
             width: calc(100% - 16px);
             padding: 8px;
             margin-bottom: 16px;
-            border: 1px solid #ccc;
+            border: 1px solid #95a5a6; /* Change the border color */
             border-radius: 4px;
+            color: #2c3e50; /* Change the input text color */
         }
 
         button {
-            background-color:indigo;
-            color: white;
+            background-color: #3498db; /* Change the button background color */
+            color: #fff;
             padding: 10px 15px;
             border: none;
             border-radius: 4px;
@@ -297,14 +302,15 @@ Close the HTML and Java Script Program.
         }
 
         button:hover {
-            background-color: green;
+            background-color: #2980b9; /* Change the button hover color */
         }
 
         #result {
-            background-color: #f0f0f0;
-            border: 1px solid #ccc;
+            background-color: #2c3e50; /* Change the result background color */
+            border: 1px solid #34495e;
             padding: 8px;
             margin-top: 16px;
+            color: #ecf0f1; /* Change the result text color */
         }
     </style>
 </head>
@@ -355,9 +361,10 @@ Close the HTML and Java Script Program.
 
 </body>
 </html>
+
 ```
 ## OUTPUT:
-![Screenshot 2023-12-21 204350](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/0a54eca8-c67e-4ff7-8a08-3621740899a9)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/262d0c2e-7c6e-4a7b-a78c-b9b631270b86)
 
 ## OBJECTIVE 4:
 ## AIM:
@@ -381,7 +388,7 @@ The styling emphasizes a dark background with contrasting text and button colors
 ## Step-5:
 Close the HTML and Java Script program.
 ## CODE:
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -390,21 +397,22 @@ Close the HTML and Java Script program.
     <title>Simple Calculator</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: #fff;
+            font-family: 'Roboto', Arial, sans-serif;
+            color: #333;
             margin: 0;
             padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
+            background-color: #f0f0f0; /* Light background color */
         }
 
         form {
-            background-color: #444;
-            border: 2px solid lightblue;
+            background-color: #fff;
+            border: 2px solid #3498db;
             border-radius: 8px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             padding: 20px;
             max-width: 400px;
             width: 100%;
@@ -412,14 +420,14 @@ Close the HTML and Java Script program.
         }
 
         h2 {
-            color: blue; /* Blue color for the heading */
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            color: #3498db; /* Blue color for the heading */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
         }
 
         label {
             display: block;
             margin-bottom: 8px;
-            color: #fff;
+            color: #333;
         }
 
         input, select {
@@ -428,12 +436,12 @@ Close the HTML and Java Script program.
             margin-bottom: 16px;
             border: 1px solid #ccc;
             border-radius: 4px;
-            background: black; /* Dark input background */
-            color: #fff;
+            background: #f0f0f0; /* Light input background */
+            color: #333;
         }
 
         button {
-            background-color:blueviolet; /* Blueviolet color for the button */
+            background-color: #27ae60; /* Green color for the button */
             color: white;
             padding: 10px 15px;
             border: none;
@@ -442,12 +450,12 @@ Close the HTML and Java Script program.
         }
 
         button:hover {
-            background-color: #2071a8; /* Darker shade of blue on hover */
+            background-color: #218c53; /* Darker shade of green on hover */
         }
 
         #result {
-            background-color: #333;
-            border: 1px solid #3498db;
+            background-color: #3498db; /* Blue color for the result background */
+            border: 1px solid #2980b9;
             padding: 8px;
             margin-top: 16px;
             font-weight: bold;
@@ -515,9 +523,13 @@ Close the HTML and Java Script program.
 
 </body>
 </html>
+
+
 ```
 ## OUTPUT:
-![image](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/38149818-8166-40bd-9b68-60d2de8df896)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/48281296-abd6-4d33-a9c5-0b239bcc239e)
+
+
 ## OBJECTIVE 5:
 ## AIM:
 To Design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
@@ -540,17 +552,17 @@ Users type text into the textarea.The textarea is styled with specific dimension
 ## Step-5:
 Close the HTML and Java Script Program.
 ## CODE:
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Text Editor</title>
+    <title>Stylish Text Editor</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(to right, red, black, #bcb8b1);
+            font-family: 'Roboto', Arial, sans-serif;
+            background: linear-gradient(to right, #3498db, #2c3e50);
             color: #fff;
             margin: 0;
             padding: 0;
@@ -562,8 +574,8 @@ Close the HTML and Java Script Program.
         }
 
         h2 {
-            color: #fff;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            color: #3498db;
+            text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
         }
 
         textarea {
@@ -571,32 +583,33 @@ Close the HTML and Java Script Program.
             height: 150px;
             padding: 12px;
             margin-bottom: 16px;
-            border: 2px solid #3498db;
+            border: 2px solid #27ae60; /* Green border */
             border-radius: 8px;
             resize: none;
             font-size: 16px;
             color: #333;
-            background-color: #fff;
+            background-color: #ecf0f1; /* Light background color */
         }
 
         button {
-            background-color:indigo;
+            background-color: #e74c3c; /* Red color for the buttons */
             color: white;
             padding: 12px 20px;
             border: none;
             border-radius: 4px;
             cursor: pointer;
             margin-right: 8px;
-            margin-bottom: 8px; /* Added margin for spacing */
+            margin-bottom: 8px;
             font-size: 16px;
         }
+
         button:hover {
-            background-color: green; /* Darker shade of blue on hover */
+            background-color: #c0392b; /* Darker shade of red on hover */
         }
 
         #output {
-            background-color: #fff;
-            border: 2px solid #3498db;
+            background-color: #ecf0f1;
+            border: 2px solid #e74c3c; /* Red border for output */
             padding: 12px;
             text-align: left;
             border-radius: 8px;
@@ -608,7 +621,7 @@ Close the HTML and Java Script Program.
 </head>
 <body>
 
-    <h2>Simple Text Editor</h2>
+    <h2>Stylish Text Editor</h2>
 
     <textarea id="inputText" placeholder="Type your text here..."></textarea>
 
@@ -663,19 +676,25 @@ Close the HTML and Java Script Program.
 
 </body>
 </html>
+
+
 ```
 
 ## OUTPUT:
 ## (i) To Make Tent To Capitalize:
-![Screenshot 2023-12-22 100629](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/f1f3259e-a7c5-48c4-b812-00408daf38bd)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/b819a2ca-06fb-4431-80cc-2f8aed10ce16)
+
 ## (ii) To Make Text To Upper Case:
-![Screenshot 2023-12-22 100640](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/06a95cfd-e58e-4580-af29-cbabba5238b1)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/3acc8600-cfa0-4a3b-ae66-b4f1d40e9d54)
+
 ## (iii) To Make Text To lower Case:
-![Screenshot 2023-12-22 100650](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/4c2b61e5-a8ca-4506-a047-b20ef717d9a0)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/4ee0182c-4080-4358-951d-70cb6b20a10a)
+
 ## (iv) To make Text To Reverse Order:
-![Screenshot 2023-12-22 100659](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/6c4a7046-06ba-4f20-b192-005ab212a900)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/b540e565-efcb-4fd3-8708-cb831438deda)
+
 ## (v) To Make Text Clear:
-![Screenshot 2023-12-22 100711](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/2f8f8d4f-cc47-4750-b347-b9a0cc2eb618)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/90e4e419-268f-4080-af88-ea9b86c03a52)
 
 ## OJECTIVE 6:
 ## AIM:
@@ -700,17 +719,17 @@ Iterate on the code, refining validation, styling, and functionality as needed. 
 Close the HTML and Java Script Program.
 
 ## CODE:
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Validation</title>
+    <title>Styled Form Validation</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(to right, red,black,blue,yellow);
+            font-family: 'Roboto', Arial, sans-serif;
+            background: linear-gradient(to right, #3498db, #2c3e50);
             color: #fff;
             margin: 0;
             padding: 0;
@@ -747,15 +766,16 @@ Close the HTML and Java Script Program.
             width: calc(100% - 16px);
             padding: 12px;
             margin-bottom: 16px;
-            border: 2px solid #3498db;
+            border: 2px solid #e74c3c;
             border-radius: 4px;
             box-sizing: border-box;
             font-size: 16px;
             color: #333;
+            background-color: #ecf0f1;
         }
 
         button {
-            background-color: indigo;
+            background-color: #27ae60;
             color: white;
             padding: 12px 20px;
             border: none;
@@ -765,11 +785,11 @@ Close the HTML and Java Script Program.
         }
 
         button:hover {
-            background-color: #45a049;
+            background-color: #218c53;
         }
 
         .error-message {
-            color: blue;
+            color: #e74c3c; /* Change the color for the attention message */
             margin-top: -8px;
             margin-bottom: 16px;
             text-align: left;
@@ -778,7 +798,7 @@ Close the HTML and Java Script Program.
 </head>
 <body>
 
-    <h2>Validation Form</h2>
+    <h2>Styled Form Validation</h2>
 
     <form id="myForm" onsubmit="validateForm(); return false;">
         <label for="name">Name:</label>
@@ -812,6 +832,8 @@ Close the HTML and Java Script Program.
                 document.getElementById('emailError').innerText = 'Email is required.';
             } else if (!isValidEmail(email)) {
                 document.getElementById('emailError').innerText = 'Invalid email format.';
+            } else if (email.indexOf('@') === -1 || email.indexOf('.') === -1) {
+                document.getElementById('emailError').innerText = 'Email is incomplete.';
             }
         }
 
@@ -824,14 +846,16 @@ Close the HTML and Java Script Program.
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
-![Screenshot 2023-12-22 104706](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/0676ced5-6d08-485a-95e4-7a2654f184b8)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/ac84054d-6ad4-447d-93ee-b7c4d46d1456)
 
-![Screenshot 2023-12-22 104722](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/dc1c68c3-0d45-491a-983a-8f149899dfdd)
 
-![Screenshot 2023-12-22 104737](https://github.com/saiganesh2006/ODD23-24-WT-JavaScript/assets/145742342/48899b64-5c5c-4f39-a528-f6ba02613532)
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/83654622-e197-4050-b92a-e2311849c9f8)
+
+![image](https://github.com/Goutham2306/ODD23-24-WT-JavaScript/assets/138971154/0242b14b-025b-48a2-8677-4c2c907ce59c)
 
 
 ## REUSLT:
